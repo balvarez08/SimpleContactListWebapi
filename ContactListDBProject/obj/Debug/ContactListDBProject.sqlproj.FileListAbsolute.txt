@@ -1,0 +1,5 @@
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactListDBProject\bin\Debug\ContactListDBProject.dacpac
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactListDBProject\bin\Debug\ContactListDBProject.dll
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactListDBProject\bin\Debug\ContactListDBProject.pdb
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactListDBProject\obj\Debug\ContactListDBProject.dll
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactListDBProject\obj\Debug\ContactListDBProject.pdb

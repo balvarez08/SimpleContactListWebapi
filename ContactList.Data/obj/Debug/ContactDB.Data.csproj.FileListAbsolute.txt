@@ -1,0 +1,10 @@
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\bin\Debug\ContactList.Data.dll.config
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\bin\Debug\ContactList.Data.dll
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\bin\Debug\ContactList.Data.pdb
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\bin\Debug\EntityFramework.dll
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\bin\Debug\EntityFramework.xml
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\obj\Debug\ContactDB.Data.csprojResolveAssemblyReference.cache
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\obj\Debug\ContactList.Data.dll
+c:\users\balvarez\documents\visual studio 2015\Projects\SimpleContactListWebAPI\ContactList.Data\obj\Debug\ContactList.Data.pdb
